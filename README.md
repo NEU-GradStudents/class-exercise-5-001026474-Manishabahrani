@@ -1,4 +1,4 @@
-# android_photography
+# android_photo
 
 Taking photos on Android
 
